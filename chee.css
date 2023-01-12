@@ -1,0 +1,23 @@
+{
+    margin:0 ;
+    padding:0 ;
+}
+
+Body{
+    background: url(https://img.freepik.com/free-vector/frame-with-dogs-vector-white-background_53876-127700.jpg?w=2000);
+    width: 100%;
+    height: 100vh ;
+    opacity: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    position: relative;
+    background: transparent;
+    border: 4px solid #fff;
+
+}
